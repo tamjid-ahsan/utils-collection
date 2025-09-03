@@ -1,0 +1,45 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+
+# Conda environments
+*.conda/
+*.env/
+conda-env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.old
+
+# Compiled binaries / caches
+*.out
+*.o
+*.so
+*.pyc
+__pycache__/
+
+# Backup archives
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.gz
+*.bz2
+*.xz
