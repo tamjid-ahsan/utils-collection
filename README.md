@@ -83,8 +83,3 @@ Keep each script:
 - Self-contained
 - With usage comments (--help)
 - Portable across Linux/macOS
-
-⸻
-
-License: MIT
-
